@@ -285,7 +285,7 @@ header.scrolled .logo-text .main {
 }
 
 .mobile-menu {
-  color: var(--primary);
+  color: var(--black);
   top: var(--header-height);
   box-shadow: 0 2px 20px rgba(0, 0, 0, 0.08);
   position: fixed;
