@@ -427,7 +427,7 @@ const projectsData = [
   {
     id: 1,
     title: {
-      nl: "Dakisolatie platte daken",
+      nl: "Dakisolatie Platte Daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -440,7 +440,7 @@ const projectsData = [
   {
     id: 2,
     title: {
-      nl: "Dakisolatie platte daken",
+      nl: "Dakisolatie Platte Daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -492,7 +492,7 @@ const projectsData = [
   {
     id: 6,
     title: {
-      nl: "Dakisolatie platte daken",
+      nl: "Dakisolatie Platte Daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -505,7 +505,7 @@ const projectsData = [
   {
     id: 7,
     title: {
-      nl: "Dakisolatie platte daken",
+      nl: "Dakisolatie Platte Daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -544,7 +544,7 @@ const projectsData = [
   {
     id: 10,
     title: {
-      nl: "Dakisolatie platte daken",
+      nl: "Dakisolatie Platte Daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -557,7 +557,7 @@ const projectsData = [
   {
     id: 11,
     title: {
-      nl: "Dakisolatie platte daken",
+      nl: "Dakisolatie Platte Daken",
       en: "Flat Roof Insulation",
     },
     description: {
