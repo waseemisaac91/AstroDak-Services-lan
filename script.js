@@ -10,21 +10,21 @@ const translations = {
     "nav.quote": "Offerte Aanvragen",
 
     // Hero Section
-    "hero.title": "Complete Dakoplossingen",
+    "hero.title": "Complete Dak Oplossingen",
     "hero.subtitle":
-      "Expert in dakisolatie, zinkwerk, hellende en platte daken",
+      "Expert in Dakisolatie, Zinkwerk, Hellende en Platte Daken",
     "hero.contact": "Neem Contact Op",
     "hero.services": "Ontdek Onze Diensten",
 
     // Services Section
     "services.title": "Onze Diensten",
-    "services.flat.title": "Dakisolatie platdaken",
+    "services.flat.title": "Dakisolatie platte daken",
     "services.flat.description": "Bitumen - lichtkoepel",
-    "services.zinc.title": "Zink Werk",
-    "services.zinc.description": "Dakgoten - Dakgoot Reiniging - kilgoot",
+    "services.zinc.title": "Zinkwerk",
+    "services.zinc.description": "Dakgoten - Dakgootreiniging - kilgoot",
     "services.sloped.title": "Hellende Daken",
     "services.sloped.description":
-      "Dakpannen - DakIsolatie - DakRaam - Nokvorst - Plastisol - Trespa - Boeiboord",
+      "Dakpannen - Dakisolatie - Dakraam - Nokvorst - Plastisol - Trespa - Boeiboord",
     "services.chimney.title": "Schoorsteen Reparatie",
     "services.chimney.description":
       "Lood Vervangen - Voegen - Coating - Impregneren",
@@ -32,17 +32,17 @@ const translations = {
     // About Section
     "about.title": "Over Ons",
     "about.paragraph1":
-      "AstroDak Service is gespecialiseerd in dakisolatie en zinkwerk voor hellende en platte daken. Ons bedrijf is opgericht met de visie om complete en hoogwaardige oplossingen te bieden aan onze klanten.",
+      "AstroDak Service is gespecialiseerd in dakisolatie en zinkwerk voor zowel hellende als platte daken Ons bedrijf werd opgericht met de visie om complete en hoogwaardige oplossingen aan onze klanten te bieden.",
     "about.paragraph2":
-      "We hebben een professioneel team met uitgebreide ervaring in dakbedekking en isolatie, en we gebruiken de nieuwste technieken en hoogwaardige materialen om de tevredenheid van onze klanten te garanderen.",
+      "Wij beschikken over een professioneel team met ruime ervaring in dakbedekking en isolatie. Door gebruik te maken van de nieuwste technieken en kwalitatieve materialen, garanderen wij de tevredenheid van onze klanten.",
     "about.paragraph3":
-      "We streven altijd naar de hoogste kwaliteits- en veiligheidsnormen in al onze projecten, met inachtneming van de afgesproken deadlines.",
+      "Bij elk project streven wij naar de hoogste kwaliteits- en veiligheidsnormen, steeds met respect voor de afgesproken deadlines.",
 
     // Projects Section
     "projects.title": "Onze Projecten",
     "projects.filter.all": "Alle Projecten",
-    "projects.filter.flat": "Dakisolatie platdaken",
-    "projects.filter.zinc": "Zink Werk",
+    "projects.filter.flat": "Dakisolatie Platte Daken",
+    "projects.filter.zinc": "Zinkwerk",
     "projects.filter.sloped": "Hellende Daken",
     "projects.filter.chimney": "Schoorsteen Reparatie",
 
@@ -85,13 +85,13 @@ const translations = {
     // Contact Section
     "contact.title": "Contacteer Ons",
     "contact.info.title": "Contactgegevens",
-    "contact.info.address": "Adres: Salahutunplein in Vught, Nederland",
+    "contact.info.address": "Adres: Salahutunplein in Vught , Nederland",
     "contact.info.phone": "Telefoon:",
-    "contact.info.email": "E-mail:",
+    "contact.info.email": "Email:",
     "contact.info.hours": "Openingstijden: Maandag t/m Vrijdag, 8:00 - 17:00",
     "contact.form.title": "Stuur Ons een Bericht",
     "contact.form.name": "Volledige Naam",
-    "contact.form.email": "E-mailadres",
+    "contact.form.email": "E-mail Adres",
     "contact.form.phone": "Telefoonnummer",
     "contact.form.subject": "Onderwerp",
     "contact.form.message": "Bericht",
@@ -143,11 +143,11 @@ const translations = {
     // About Section
     "about.title": "About Us",
     "about.paragraph1":
-      "AstroDak Service specializes in roof insulation and zinc work for sloped and flat roofs. Our company was founded with the vision to provide complete and high-quality solutions to our customers.",
+      "AstroDak Service specializes in roof insulation and zinc work for both pitched and flat roofs. Our company was founded with the vision to offer complete and high-quality solutions to our customers.",
     "about.paragraph2":
-      "We have a professional team with extensive experience in roofing and insulation, and we use the latest techniques and high-quality materials to guarantee customer satisfaction.",
+      "We have a professional team with extensive experience in roofing and insulation. By using the latest techniques and quality materials, we guarantee the satisfaction of our customers.",
     "about.paragraph3":
-      "We always strive for the highest quality and safety standards in all our projects, while respecting agreed deadlines.",
+      "With every project we strive for the highest quality and safety standards, always respecting the agreed deadlines.",
 
     // Projects Section
     "projects.title": "Our Projects",
@@ -427,12 +427,12 @@ const projectsData = [
   {
     id: 1,
     title: {
-      nl: "Dakisolatie platdaken",
+      nl: "Dakisolatie platte daken",
       en: "Flat Roof Insulation",
     },
     description: {
-      nl: "Bitumen platdak isolatie",
-      en: "Bitumen flat roof insulation",
+      nl: "Bitumen Platdak Overlaag",
+      en: "Bitumen Flat Roof Overlay",
     },
     category: "dakisolatie",
     image: "img/Bitumen platdak isolatie1.jpg",
@@ -440,12 +440,12 @@ const projectsData = [
   {
     id: 2,
     title: {
-      nl: "Dakisolatie platdaken",
+      nl: "Dakisolatie platte daken",
       en: "Flat Roof Insulation",
     },
     description: {
-      nl: "Bitumen platdak isolatie",
-      en: "Bitumen flat roof insulation",
+      nl: "Bitumineuze dakisolatie",
+      en: "Bituminous roof insulation",
     },
     category: "dakisolatie",
     image: "img/Bitumen platdak isolatie2.jpg",
@@ -492,7 +492,7 @@ const projectsData = [
   {
     id: 6,
     title: {
-      nl: "Dakisolatie platdaken",
+      nl: "Dakisolatie platte daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -505,7 +505,7 @@ const projectsData = [
   {
     id: 7,
     title: {
-      nl: "Dakisolatie platdaken",
+      nl: "Dakisolatie platte daken",
       en: "Flat Roof Insulation",
     },
     description: {
@@ -544,12 +544,12 @@ const projectsData = [
   {
     id: 10,
     title: {
-      nl: "Dakisolatie platdaken",
+      nl: "Dakisolatie platte daken",
       en: "Flat Roof Insulation",
     },
     description: {
-      nl: "Bitumen platdak isolatie",
-      en: "Bitumen platdak isolatie",
+      nl: "Bitumen ",
+      en: "Bitumen ",
     },
     category: "dakisolatie",
     image: "img/Bitumen platdak isolatie3.jpg",
@@ -557,12 +557,12 @@ const projectsData = [
   {
     id: 11,
     title: {
-      nl: "Dakisolatie platdaken",
+      nl: "Dakisolatie platte daken",
       en: "Flat Roof Insulation",
     },
     description: {
-      nl: "Bitumen platdak isolatie",
-      en: "Bitumen platdak isolatie",
+      nl: "Bitumen ",
+      en: "Bitumen ",
     },
     category: "dakisolatie",
     image: "img/Bitumen platdak isolatie4.jpg",
@@ -575,7 +575,7 @@ const projectsData = [
     },
     description: {
       nl: "Dakraam",
-      en: "Dakraam",
+      en: "Roofwindow",
     },
     category: "hellededaken",
     image: "img/schoorsteen2.jpg",
@@ -583,12 +583,12 @@ const projectsData = [
   {
     id: 13,
     title: {
-      nl: "Zink werk",
+      nl: "Zinkwerk",
       en: "Zinc Work",
     },
     description: {
       nl: "Dakgoot",
-      en: "Dakgoot",
+      en: "Gutter",
     },
     category: "zinkwerk",
     image: "img/Zinkwerk-Dakgootset.jpg",
@@ -596,12 +596,12 @@ const projectsData = [
   {
     id: 14,
     title: {
-      nl: "Zink werk",
+      nl: "Zinkwerk",
       en: "Zinc Work",
     },
     description: {
       nl: "Dakgoot",
-      en: "Dakgoot",
+      en: "Gutter",
     },
     category: "zinkwerk",
     image: "img/Zinkwerk-Dakgootset2.jpg",
@@ -609,12 +609,12 @@ const projectsData = [
   {
     id: 15,
     title: {
-      nl: "Zink werk",
+      nl: "Zinkwerk",
       en: "Zinc Work",
     },
     description: {
       nl: "Dakgoot",
-      en: "Dakgoot",
+      en: "Gutter",
     },
     category: "zinkwerk",
     image: "img/Zinkwerk-Dakgootset3.jpg",
@@ -639,8 +639,8 @@ const projectsData = [
       en: "Sloped Roofs",
     },
     description: {
-      nl: "Dakisolatie",
-      en: "Roof insulation",
+      nl: "Dakisolatie Platen",
+      en: "Roof insulation boards",
     },
     category: "hellededaken",
     image: "img/Dakisolatie1.jpg",
@@ -652,8 +652,8 @@ const projectsData = [
       en: "Sloped Roofs",
     },
     description: {
-      nl: "Dakisolatie",
-      en: "Roof insulation",
+      nl: "Dak Islolatie Folie",
+      en: "Roof Insulation Foil",
     },
     category: "hellededaken",
     image: "img/Dakisolatie2.jpg",
@@ -773,12 +773,18 @@ function renderProjects(filter = "all") {
     projectCard.dataset.category = project.category;
 
     projectCard.innerHTML = `
-      <img src="${project.image}" alt="${project.title[currentLanguage]}" />
-      <div class="project-overlay">
-        <h3>${project.title[currentLanguage]}</h3>
-        <p>${project.description[currentLanguage]}</p>
-      </div>
-    `;
+  <img src="${project.image}" 
+       loading="lazy" 
+       alt="${project.title[currentLanguage]} - ${project.description[currentLanguage]} | AstroDak ${project.category}" 
+       width="400" 
+       height="300"
+       class="project-image"
+       onerror="this.src='fallback-image.jpg'">
+  <div class="project-overlay" aria-hidden="true">
+    <h3>${project.title[currentLanguage]}</h3>
+    <p>${project.description[currentLanguage]}</p>
+  </div>
+`;
 
     projectsGrid.appendChild(projectCard);
   });
