@@ -578,7 +578,7 @@ const projectsData = [
       en: "Roofwindow",
     },
     category: "hellededaken",
-    image: "img/schoorsteen2.jpg",
+    image: "img/Dakraam vervangen1.jpg",
   },
   {
     id: 13,
