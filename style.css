@@ -561,7 +561,6 @@ header.scrolled .logo-text .main {
 .about-image {
   border-radius: var(--border-radius);
   overflow: hidden;
-  box-shadow: var(--shadow);
 }
 
 .about-image img {
