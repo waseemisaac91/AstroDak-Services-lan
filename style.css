@@ -978,6 +978,7 @@ footer {
   position: relative;
   padding-bottom: 0.5rem;
   font-size: 1.3rem;
+  display: inline-block; /* أهم تغيير */
 }
 
 .footer-column h3::after {
@@ -985,7 +986,7 @@ footer {
   position: absolute;
   bottom: 0;
   left: 0;
-  width: 50px;
+  width: 100%; /* سيأخذ نفس عرض النص */
   height: 2px;
   background-color: var(--secondary);
 }
